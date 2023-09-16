@@ -1,0 +1,80 @@
+## .NET Core / .NET 5+ / .NET 7
+# Rider IDE
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# .NET Core / .NET 5+ / .NET 7
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
+bin/
+obj/
+out/
+appsettings*.json
+*.dev.json
+
+# Rider IDE
+.idea/
+
+# Azure Functions localsettings file
+local.settings.json
+
+# Secret Manager
+secrets.json
+
+# RSP files
+*.rsp
+
+# Logs
+logs/
+*.log
+*.log1
+*.log2
+*.log3
+*.log4
+*.log5
+*.log6
+*.log7
+
+# Tye
+.tye/
+
+# Visual Studio for Mac
+.vscode/
+.vscode-backup/
+*.csproj.*.bak
+
+# Rider
+.idea/
+
+# Windows
+*.exe
+*.dll
+*.pdb
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
