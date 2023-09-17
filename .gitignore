@@ -9,6 +9,9 @@
 *.userosscache
 *.sln.docstates
 
+# Mac
+.DS_Store
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
