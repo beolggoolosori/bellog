@@ -33,6 +33,8 @@ obj/
 out/
 appsettings*.json
 *.dev.json
+**/bin/
+**/obj/
 
 # Rider IDE
 .idea/
